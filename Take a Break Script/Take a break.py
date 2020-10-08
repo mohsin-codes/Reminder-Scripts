@@ -6,7 +6,7 @@ if __name__=='__main__':
         notification.notify(
             title = "Take a Break!",
             message = " You've been working hard. Give yourself a break and take a walk.",
-            app_icon="E:\Projects\Python\Reminder Scripts\Take a Break Script\icon.ico",
-            timeout = 5
+            app_icon="E:\Projects\Python\Reminder Scripts\Reminder-Scripts\Take a Break Script\icon.ico",
+            timeout = 10
         )
         time.sleep(20*60)
