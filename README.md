@@ -1,12 +1,13 @@
 # Reminder-Scripts
 Creating some basic reminder scripts that will help programmers and will add more.
+NOTE : You need to update the location of the file inside the script.
 
 Requirements:
 1. Python 3.0 or +.
    Download python from here : https://www.python.org/downloads/
 
 2. Plyer library from python.
-  After installing python you can use command prompt or powershell. Use pip install plyer.
+  After installing python you can use command prompt or powershell. Use 'pip install plyer' to install plyer.
   
 Step to use these scripts in background in Windows:
 1. Open command prompt
